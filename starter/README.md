@@ -1,4 +1,4 @@
-# Full Stack API Final Project
+# Full Stack API Final Project - Starter Code
 
 ## Full Stack Trivia
 
